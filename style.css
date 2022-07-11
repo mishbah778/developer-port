@@ -1,0 +1,39 @@
+body {
+    font-family: 'Edu SA Beginner', cursive;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.captain {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.jersey-1 {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.jersey-2 img {
+    width: 50%;
+}
+
+.link-button {
+    color: rgb(0, 0, 0);
+    background-color: orange;
+    padding: 10px 40px;
+    color: orange font-weight: 700;
+    border-radius: 5%;
+
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
